@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Harsimranjit Android Lab</string>
+    <string name="hello_mesaage">Dunia ku namaste!</string>
+    <string name="Button_message">mai ek buton hu</string>
+</resources>
