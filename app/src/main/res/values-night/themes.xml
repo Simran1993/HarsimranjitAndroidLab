@@ -3,5 +3,9 @@
     <style name="Base.Theme.HarsimranjitAndroidLab" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your dark theme here. -->
         <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <item name="colorPrimary">@color/my_darkprimary</item>
+        <item name="colorSecondary">@color/my_darksecondary</item>
+        <item name="android:statusBarColor">@color/my_darkstatusbar</item>
+
     </style>
 </resources>

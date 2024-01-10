@@ -2,4 +2,15 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="my_primary">#B07DEF</color>
+    <color name="my_secondary">#8944EC</color>
+    <color name="my_statusbar">#E3DA8F</color>
+
+    <color name="my_darkprimary">#3F56D6</color>
+    <color name="my_darksecondary">#2388D8</color>
+    <color name="my_darkstatusbar">#06554E</color>
+
+    <color name="my_text">#93271F</color>
+
+
 </resources>
