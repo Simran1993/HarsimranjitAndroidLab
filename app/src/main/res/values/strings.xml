@@ -2,4 +2,6 @@
     <string name="app_name" translatable="false">Harsimranjit Android Lab</string>
     <string name="hello_mesaage">Hello world!</string>
     <string name="Button_message">I\'m a Button</string>
+    <string name="editmessage">I\'m an EditText</string>
+    <string name="hinttext">Write something here</string>
 </resources>
