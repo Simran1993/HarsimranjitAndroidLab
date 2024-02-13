@@ -2,4 +2,5 @@
     <string name="app_name" translatable="false">Harsimranjit Android Lab</string>
     <string name="hello_mesaage">Hello world!</string>
     <string name="Button_message">I\'m a Button</string>
+    <string name="Spin_Message">Spin Flag</string>
 </resources>
