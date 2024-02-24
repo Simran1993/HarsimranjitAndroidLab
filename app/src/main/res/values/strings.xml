@@ -2,4 +2,9 @@
     <string name="app_name" translatable="false">Harsimranjit Android Lab</string>
     <string name="hello_mesaage">Hello world!</string>
     <string name="Button_message">I\'m a Button</string>
+    <string name="editEmail">Type email here</string>
+    <string name="pass">Type your password:</string>
+    <string name="textView">TextView</string>
+    <string name="button_call">Call Number</string>
+    <string name="change_pic">Change Picture</string>
 </resources>
