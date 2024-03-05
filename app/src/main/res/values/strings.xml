@@ -1,5 +1,12 @@
 <resources>
-    <string name="app_name" translatable="false">Harsimranjit Android Lab</string>
-    <string name="hello_mesaage">Hello world!</string>
-    <string name="Button_message">I\'m a Button</string>
+    <string name="app_name">Harsimran\'sAndroidLab</string>
+    <string name="hello_message">Type your password</string>
+    <string name="button">LOGIN</string>
+    <string name="Empty">Empty String, Please write your password</string>
+    <string name="up">Missing an UpperCase Letter</string>
+    <string name="low">Missing a LowerCase Letter</string>
+    <string name="digit">Missing a Numerical Character Letter</string>
+    <string name="specialChar">Missing a special character</string>
+    <string name="success">Your password meets the requirements</string>
+    <string name="fail">You shall not pass!</string>
 </resources>
